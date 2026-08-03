@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gustglider:item/umbrella_magenta_closed"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "open": 0.0
+      },
+      "model": "gustglider:item/umbrella_magenta_closed"
+    },
+    {
+      "predicate": {
+        "open": 1.0
+      },
+      "model": "gustglider:item/umbrella_magenta_open"
+    }
+  ]
+}

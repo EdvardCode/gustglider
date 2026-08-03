@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#i#",
+    " i "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_carpet"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "gustglider:umbrella_magenta",
+    "count": 1
+  }
+}

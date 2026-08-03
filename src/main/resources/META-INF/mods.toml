@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="gustglider"
+version="1.0"
+displayName="Gustglider"
+description="Adds colorful umbrellas that slow your fall with swirling wind particles. Craft from carpets and iron, enchant and repair them!"
+authors="EdvardCode"
+logoFile="icon.png"
